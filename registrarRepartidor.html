@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/14e4498621.js" crossorigin="anonymous"></script>
+    
+    <link rel="stylesheet" href="css/estilosRegistro.css">
+
+
+</head>
+<body>
+    
+    
+    <nav class="navbar">
+        <div class="container-fluid">
+         <a href="principal.html"> <img id="navbarIMG" src="img/Logo2LETRAS.png"></a>
+         <a href="inicio.html"><i class="fa-solid fa-door-open"></i></a>
+        </div>
+      </nav>
+
+
+     
+      <div class="container">
+        <form action="" method="POST" id="formInicio">    
+  
+          <div class="mb-3">
+              <label  for="correoEntrada" class="form-label texto">Nombre</label>
+              <input id="nombre" class="form-control form-control-sm " type="text" aria-label="default input example">
+            </div>
+  
+            <div class="mb-3">
+              <label for="correoEntrada" class="form-label texto">Apellido</label>
+              <input id="apellido" class="form-control form-control-sm " type="text" aria-label="default input example">
+            </div>
+  
+            
+  
+  
+            <div class="mb-3">
+              <label for="correoEntrada" class="form-label texto">Correo</label>
+              <input type="email" class="form-control form-control-sm " id="correoEntrada" >
+            </div>
+
+            
+            <div class="mb-3">
+                <label for="correoEntrada" class="form-label texto">Teléfono (sin espacios)</label>
+                <input id="telefonoEntrada" class="form-control form-control-sm " type="text"  aria-label="default input example">
+              </div>
+              
+            <div class="mb-3 row">
+              <label for="inputPassword" class="col-form-label texto">Contraseña</label>
+              <div >
+                <input type="password" class="form-control form-control-sm" id="contraseñaEntrada">
+              </div>
+            </div>
+  
+
+            <label for="inputPassword" class="col-form-label texto"> Tipo de Vehiculo</label>
+            <select class="form-select form-select-sm" aria-label="Default select example">
+                <option value="1">Motocicleta</option>
+                <option value="2">Automovil</option>
+                <option value="3">Camión</option>
+              </select>
+
+
+  
+            <div id="boton" class="d-grid gap-2 col-6 mx-auto">
+              <button class="btn btn-primary" type="submit" > Guardar </button>
+              
+          </div>
+  
+          
+          <p class="texto" id="warnings"></p>
+              
+          </form>
+          </div>
+
+
+<button id="salir" onclick="location.href='principal.html'">Volver a página principal</button>
+
+
+    <footer class="footer">
+
+        <a class="hipervinculo" href="" >Términos y Condiciones</a>
+        <a>|</a>
+        <a class="hipervinculo" href="" >Política de Protección de Datos Personales </a>
+      
+      <p class="textoFooter">©Abyss</p>
+      
+      </footer>
+
+      <script src="js/controladorRegistro.js"></script>
+</body>
+</html>

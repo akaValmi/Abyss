@@ -1,0 +1,171 @@
+.container{
+    /*centrar vertical container*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+
+}
+
+.btnNombre{
+    width: 260px;
+    height: 200px;
+    margin-bottom: 20px;
+    background-color: #ffffff;
+    
+}
+
+#cantidad{
+    width: 300px;
+    margin-bottom: 20px;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btnAñadir{
+    width: 260px;
+    height: 200px;
+    margin-bottom: 20px;
+    background-color: #ACBF65;
+}
+
+.botonAñadirProd{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 0;
+
+}
+
+#restaurante1{
+    width: 100px;
+}
+
+#restaurante2{
+    width: 150px;
+}
+
+#restaurante3{
+    width: 100px;
+}
+
+#hamburguesa1{
+    width: 160px;
+}
+
+body{
+    background-color: #F9F6FF;
+}
+
+.navbar{
+    background-color: #6D53A6;
+   
+}
+#imagenNavbar1{
+    width: 30px;
+    
+
+}
+
+#imagenNavbar2{
+    width: 60px;
+    
+}
+
+.offcanvas{
+    background-color: #9F85D6;
+    color: white;
+   
+}
+
+.nav-link{
+    color: white;
+}
+
+.fa-solid{
+    color: white;
+}
+
+
+.hipervinculo{
+    color: white;
+    font-size: 8px;
+}
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 30px;
+    background-color: #6D53A6;
+    color: white;
+    text-align: center;
+}
+
+.textoFooter{
+    display: inline;
+    color: white;
+    font-size: 8px;
+    
+    /*texto a la derecha estatico*/
+    position: absolute;
+    right: 0;
+    margin-right: 10px;
+
+    /*centrar vertical*/
+    top: 50%;
+    transform: translateY(-50%);
+
+}
+
+#imagenOffcanvas1{
+    width: 100px;
+    top: 50%;
+    transform: translateX(50%);
+    
+
+    
+}
+
+#imagenOffcanvas2{
+    width: 150px;
+    top: 50%;
+    transform: translateX(20%);
+    
+}
+
+.cerrar{
+    background-color: #ffffff;
+}
+
+hr{
+    margin: 0;
+}
+
+#navbarIMG{
+    width: 100px;
+}
+
+.fa-plus{
+ 
+    font-size: 50px;
+}
+
+.modal-header{
+    background-color: #6D53A6;
+    
+
+}
+.modal-footer{
+   justify-content: center;
+}
+
+.modal-title{
+    color: white;
+}
