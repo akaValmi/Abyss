@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.logos {
+    margin: 0px 20px 0px;
+}
+
+.logo-abyss {
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+}
+
+
+
+.logos-appstore {
+    display: flex;
+}
+
+.ops-containers {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.ops-container {
+    margin: 30px;
+    margin-top: 80px;
+    background-color: #BFAEE4;
+    height: 326px;
+    width: 353px;
+    border-radius: 16px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo-emps {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.logo-emp {
+    margin: 2rem 0.3rem 3rem;
+    border-radius: 16px;
+    width: 160px;
+    height: 102px;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    box-shadow: rgba(0, 0, 0, 0.2) 1.95px 5px 2.6px;
+}
+
+.caja-texto {
+    font-size: 22px;
+    inline-size: 230px;
+    overflow-wrap: break-word;
+    text-align: center;
+}
+
+.saludo-container {
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    background-color: #9F85D6;
+    width: 100%;
+}
+
+footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 46px;
+    background-color: #6D53A6;
+    color: white;
+    text-align: center;
+}
+
+.footer-container {
+    margin: 0 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 8px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+    .btn-comprar {
+        border-radius: 16px;
+        background-color: #F2B705;
+        text-decoration: none;
+        width: 210px;
+        height: 70px;
+        color: #ffffff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 25px;
+    }
+
+    .container-button {
+        display: contents;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+.pointer {
+    cursor: pointer;
+}
+
+.centrar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
