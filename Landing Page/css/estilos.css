@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.logos-container {
+    color: white;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+}
+
+.logos {
+    margin: 0px 20px 0px;
+}
+
+.logo-abyss {
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logos-appstore {
+    display: flex;
+    margin-left: 3rem;
+}
+
+.ops-containers {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.ops-container {
+    margin: 30px;
+    margin-top: 80px;
+    background-color: #BFAEE4;
+    height: 326px;
+    width: 353px;
+    border-radius: 16px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo-emps {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.logo-emp {
+    margin: 2rem 1rem 3rem;
+    border-radius: 16px;
+    width: 249px;
+    height: 166px;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    box-shadow: rgba(0, 0, 0, 0.2) 1.95px 5px 2.6px;
+}
+
+.caja-texto {
+    font-size: 22px;
+    inline-size: 230px;
+    overflow-wrap: break-word;
+    text-align: center;
+}
+
+.saludo-container {
+    margin-left: 3rem;
+}
+
+footer {
+    left: 0;
+    bottom: 0;
+    width: 100%!important;
+    height: 53px;
+    background-color: #9F85D6;
+    color: white;
+    text-align: center;
+}
+
+.footer-container {
+    margin: 0 1rem 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+    .btn-comprar {
+        border-radius: 16px;
+        background-color: #F2B705;
+        text-decoration: none;
+        width: 210px;
+        height: 70px;
+        color: #ffffff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 25px;
+    }
+
+    .container-button {
+        display: contents;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+.pointer {
+    cursor: pointer;
+}
