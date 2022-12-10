@@ -1,0 +1,398 @@
+        nombre: "Camilo",
+        apellido: "Sesto",
+        codigo: 4615966,
+        correo: "navidadsinti@icloud.com",
+        telef: "3241-1866",
+        ciudad: "Tegucigalpa",
+        entregasPend: [
+            {
+                ordenNum: 123,
+                productos: [
+                    {
+                        nombre: "Pollo",
+                        nombreEmp: "Crazy Chicken",
+                        precio: 265
+                    },
+                    {
+                        nombre: "Manzanas",
+                        nombreEmp: "Crazy apple",
+                        precio: 265
+                    },
+                ],
+                direcc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis velit consectetur, tincidunt quam in, iaculis velit.",
+                Clientnombre: "Poco Alexy",
+                telfClient: "3596-4585",
+            },
+            {
+                ordenNum: 125,
+                productos: [
+                    {
+                        nombre: "Pollo",
+                        nombreEmp: "Crazy Chicken",
+                        precio: 265
+                    },
+                    {
+                        nombre: "Manzanas",
+                        nombreEmp: "Crazy apple",
+                        precio: 265
+                    },
+                ],
+                direcc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis velit consectetur, tincidunt quam in, iaculis velit.",
+                Clientnombre: "Poco Alexy",
+                telfClient: "3596-4585",
+            },
+            {
+                ordenNum: 127,
+                productos: [
+                    {
+                        nombre: "Pollo",
+                        nombreEmp: "Crazy Chicken",
+                        precio: 265
+                    },
+                    {
+                        nombre: "Manzanas",
+                        nombreEmp: "Crazy apple",
+                        precio: 265
+                    },
+                    {
+                        nombre: "Pollo",
+                        nombreEmp: "Crazy Chicken",
+                        precio: 265
+                    },
+                ],
+                direcc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis velit consectetur, tincidunt quam in, iaculis velit.",
+                Clientnombre: "Poco Alexy",
+                telfClient: "3596-4585",
+            },
+            {
+                ordenNum: 129,
+                productos: [
+                    {
+                        nombre: "Pollo",
+                        nombreEmp: "Crazy Chicken",
+                        precio: 265
+                    },
+                    {
+                        nombre: "Manzanas",
+                        nombreEmp: "Crazy apple",
+                        precio: 265
+                    },
+                    {
+                        nombre: "Manzanas",
+                        nombreEmp: "Crazy apple",
+                        precio: 265
+                    },
+                ],
+                direcc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis velit consectetur, tincidunt quam in, iaculis velit.",
+                Clientnombre: "Poco Alexy",
+                telfClient: "3596-4585",
+            },
+        ],
+        entregasTomad: [
+            {
+                ordenNum: 115,
+                productos: [
+                    {
+                        nombre: "Pollo",
+                        nombreEmp: "Crazy Chicken",
+                        precio: 265
+                    },
+                    {
+                        nombre: "Manzanas",
+                        nombreEmp: "Crazy apple",
+                        precio: 265
+                    },
+                    {
+                        nombre: "Manzanas",
+                        nombreEmp: "Crazy apple",
+                        precio: 265
+                    },
+                ],
+                direcc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis velit consectetur, tincidunt quam in, iaculis velit.",
+                Clientnombre: "Poco Alexy",
+                telfClient: "3596-4585",
+            },
+            {
+                ordenNum: 119,
+                productos: [
+                    {
+                        nombre: "Pollo",
+                        nombreEmp: "Crazy Chicken",
+                        precio: 265
+                    },
+                    {
+                        nombre: "Manzanas",
+                        nombreEmp: "Crazy apple",
+                        precio: 265
+                    },
+                ],
+                direcc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis velit consectetur, tincidunt quam in, iaculis velit.",
+                Clientnombre: "Poco Alexy",
+                telfClient: "3596-4585",
+            },
+        ],
+        entregasRealizad: [
+            {
+                ordenNum: 107,
+                productos: [
+                    {
+                        nombre: "Pollo",
+                        nombreEmp: "Crazy Chicken",
+                        precio: 265
+                    },
+                    {
+                        nombre: "Manzanas",
+                        nombreEmp: "Crazy apple",
+                        precio: 265
+                    },
+                    {
+                        nombre: "Baterias AA",
+                        nombreEmp: "Raid",
+                        precio: 265
+                    },
+                ],
+                direcc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis velit consectetur, tincidunt quam in, iaculis velit.",
+                Clientnombre: "Poco Alexy",
+                telfClient: "3596-4585",
+            },
+            {
+                ordenNum: 108,
+                productos: [
+                    {
+                        nombre: "Pollo",
+                        nombreEmp: "Crazy Chicken",
+                        precio: 265
+                    },
+                    {
+                        nombre: "Manzanas",
+                        nombreEmp: "Crazy apple",
+                        precio: 265
+                    },
+                ],
+                direcc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis velit consectetur, tincidunt quam in, iaculis velit.",
+                Clientnombre: "Poco Alexy",
+                telfClient: "3596-4585",
+            },
+        ]
+
+
+
+
+
+
+
+
+
+
+        nombre: "Alejandra",
+        apellido: "Soriano",
+        codigo: "7852641",
+        correo: "a.s.98"gmail.com",
+        telef: "3241-5865",
+        ciudad: "Comayagua",
+        entregasPend: [
+            {
+                ordenNum: 259,
+                productos: [
+                    {
+                        nombre: "Pollo",
+                        nombreEmp: "Crazy Chicken",
+                        precio: 265
+                    },
+                    {
+                        nombre: "Manzanas",
+                        nombreEmp: "Crazy apple",
+                        precio: 265
+                    },
+                ],
+                direcc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis velit consectetur, tincidunt quam in, iaculis velit.",
+                Clientnombre: "Vicente C.",
+                telfClient: "3596-8965",
+            },
+            {
+                ordenNum: 255,
+                productos: [
+                    {
+                        nombre: "Pollo",
+                        nombreEmp: "Crazy Chicken",
+                        precio: 265
+                    },
+                    {
+                        nombre: "Manzanas",
+                        nombreEmp: "Crazy apple",
+                        precio: 265
+                    },
+                ],
+                direcc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis velit consectetur, tincidunt quam in, iaculis velit.",
+                Clientnombre: "Poco Alexy",
+                telfClient: "3596-4585",
+            },
+            {
+                ordenNum: 298,
+                productos: [
+                    {
+                        nombre: "Pollo",
+                        nombreEmp: "Crazy Chicken",
+                        precio: 265
+                    },
+                    {
+                        nombre: "Manzanas",
+                        nombreEmp: "Crazy apple",
+                        precio: 265
+                    },
+                    {
+                        nombre: "Pollo",
+                        nombreEmp: "Crazy Chicken",
+                        precio: 265
+                    },
+                ],
+                direcc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis velit consectetur, tincidunt quam in, iaculis velit.",
+                Clientnombre: "Poco Alexy",
+                telfClient: "3596-4585",
+            },
+            {
+                ordenNum: 299,
+                productos: [
+                    {
+                        nombre: "Pollo",
+                        nombreEmp: "Crazy Chicken",
+                        precio: 265
+                    },
+                    {
+                        nombre: "Manzanas",
+                        nombreEmp: "Crazy apple",
+                        precio: 265
+                    },
+                    {
+                        nombre: "Manzanas",
+                        nombreEmp: "Crazy apple",
+                        precio: 265
+                    },
+                ],
+                direcc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis velit consectetur, tincidunt quam in, iaculis velit.",
+                Clientnombre: "Poco Alexy",
+                telfClient: "3596-4585",
+            },
+        ],
+        entregasTomad: [
+            {
+                ordenNum: 233,
+                productos: [
+                    {
+                        nombre: "Pollo",
+                        nombreEmp: "Crazy Chicken",
+                        precio: 265
+                    },
+                    {
+                        nombre: "Manzanas",
+                        nombreEmp: "Crazy apple",
+                        precio: 265
+                    },
+                    {
+                        nombre: "Manzanas",
+                        nombreEmp: "Crazy apple",
+                        precio: 265
+                    },
+                ],
+                direcc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis velit consectetur, tincidunt quam in, iaculis velit.",
+                Clientnombre: "Poco Alexy",
+                telfClient: "3596-4585",
+            },
+            {
+                ordenNum: 231,
+                productos: [
+                    {
+                        nombre: "Pollo",
+                        nombreEmp: "Crazy Chicken",
+                        precio: 265
+                    },
+                    {
+                        nombre: "Manzanas",
+                        nombreEmp: "Crazy apple",
+                        precio: 265
+                    },
+                ],
+                direcc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis velit consectetur, tincidunt quam in, iaculis velit.",
+                Clientnombre: "Poco Alexy",
+                telfClient: "3596-4585",
+            },
+        ],
+        entregasRealizad: [
+            {
+                ordenNum: 201,
+                productos: [
+                    {
+                        nombre: "Pollo",
+                        nombreEmp: "Crazy Chicken",
+                        precio: 265
+                    },
+                    {
+                        nombre: "Manzanas",
+                        nombreEmp: "Crazy apple",
+                        precio: 265
+                    },
+                    {
+                        nombre: "Baterias AA",
+                        nombreEmp: "Raid",
+                        precio: 265
+                    },
+                ],
+                direcc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis velit consectetur, tincidunt quam in, iaculis velit.",
+                Clientnombre: "Poco Alexy",
+                telfClient: "3596-4585",
+            },
+            {
+                ordenNum: 205,
+                productos: [
+                    {
+                        nombre: "Pollo",
+                        nombreEmp: "Crazy Chicken",
+                        precio: 265
+                    },
+                    {
+                        nombre: "Manzanas",
+                        nombreEmp: "Crazy apple",
+                        precio: 265
+                    },
+                ],
+                direcc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis velit consectetur, tincidunt quam in, iaculis velit.",
+                Clientnombre: "Poco Alexy",
+                telfClient: "3596-4585",
+            },
+            {
+                ordenNum: 208,
+                productos: [
+                    {
+                        nombre: "Pollo",
+                        nombreEmp: "Crazy Chicken",
+                        precio: 265
+                    },
+                    {
+                        nombre: "Manzanas",
+                        nombreEmp: "Crazy apple",
+                        precio: 265
+                    },
+                ],
+                direcc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis velit consectetur, tincidunt quam in, iaculis velit.",
+                Clientnombre: "Poco Alexy",
+                telfClient: "3596-4585",
+            },
+            {
+                ordenNum: 210,
+                productos: [
+                    {
+                        nombre: "Pollo",
+                        nombreEmp: "Crazy Chicken",
+                        precio: 265
+                    },
+                    {
+                        nombre: "Manzanas",
+                        nombreEmp: "Crazy apple",
+                        precio: 265
+                    },
+                ],
+                direcc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis velit consectetur, tincidunt quam in, iaculis velit.",
+                Clientnombre: "Poco Alexy",
+                telfClient: "3596-4585",
+            },
+        ]
