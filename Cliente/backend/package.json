@@ -67,6 +67,9 @@
   },
   "scripts": {
     "dev": "echo \"Error: no test specified\" && exit 1"
+    "express": "npm install --save express",
+    "nodemon": "npm install -g nodemon",
+    "mongoose": "npm install --save mongoose"
   },
   "author": "",
   "license": "ISC"
