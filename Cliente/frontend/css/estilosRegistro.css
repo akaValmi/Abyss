@@ -1,0 +1,46 @@
+#formInicio{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+
+.imagenLogo{
+    width: 50%;
+    height: 50%;
+    object-fit: cover;
+    margin-bottom: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    background-color: #6D53A6;
+}
+
+.texto{
+    color: white;
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+.btn{
+    background-color: #3298A6;
+}
+
+#textoInicio{
+    color: white;
+    font-size: 12px;
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    text-align: center;
+    
+
+    
+}
+

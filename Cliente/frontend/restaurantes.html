@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurantes</title>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/estilosRestaurante.css">
+    <script src="https://kit.fontawesome.com/14e4498621.js" crossorigin="anonymous"></script>
+</head>
+<body>
+
+  <nav class="navbar fixed-top">
+    <div class="container-fluid">
+            <button class="navbar-toggler"  data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
+        <i class="fa-solid fa-bars"></i>
+      </button>
+      <a class="navbar-brand" href="principal.html"><img id="imagenNavbar1" src="img/LogoSINLETRAS.png"><img id="imagenNavbar2" src="img/Logo2LETRAS.png"></a>
+      <button class="navbar-toggler" onclick="location.href='carrito.html'"><i class="fa-solid fa-cart-shopping"></i></button>
+      <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+        <div class="offcanvas-header">
+          <a class="navbar-brand" href="principal.html"><img id="imagenOffcanvas1" src="img/LogoSINLETRAS.png"><img id="imagenOffcanvas2" src="img/Logo2LETRAS.png"></a>
+          <button type="button" class="btn-close cerrar" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+
+        </div>
+        <hr size="4px" color="white"/>       
+        <div class="offcanvas-body">
+          <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+           
+            <div id="menuItmens">
+                <li class="nav-item">
+                    <a class="nav-link" href="perfil.html"><i class="fa-solid fa-user"></i>&emsp;Perfil</a>
+                </li>
+
+                
+
+                <li class="nav-item">
+                    <a class="nav-link" href="favoritos.html"><i class="fa-solid fa-star"></i>&emsp;Favoritos</a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href=""><i class="fa-solid fa-phone"></i>&emsp;Contáctanos</a>
+                </li>
+                
+                <li class="nav-item">
+                    <a class="nav-link" href="ayuda.html"><i class="fa-solid fa-circle-question"></i>&emsp;Ayuda</a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="inicio.html"><i class="fa-solid fa-door-open"></i>&emsp;Salir</a>
+                </li>
+
+                
+            </div>
+           
+          </ul>
+          
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <div id="categoriasOpciones">
+          
+    <div class="row">
+      
+    <div class="col-5 ">
+      <button class="btn btn-primary" type="button" onclick="window.location.href='restaurantePrim.html'"> <img id="imagen1" src="img/logo-dennys.png"></button>
+    </div>
+  
+    <div class="col-5 ">
+      <button class="btn btn-primary" type="button" onclick="window.location.href='restauranteSeg.html'"> <img id="imagen2" src="img/KFC-logo.png"></button>
+    </div>
+
+    <div class="col-5 ">
+      <button class="btn btn-primary" type="button" onclick="window.location.href='restauranteTer.html'"> <img id="imagen3" src="img/Pizza_Hut_Logo_3.png"></button>
+    </div>
+    
+    
+    
+    
+  </div>
+</div>
+
+
+
+  <footer class="footer">
+
+    <a class="hipervinculo" href="" >Términos y Condiciones</a>
+    <a>|</a>
+    <a class="hipervinculo" href="" >Política de Protección de Datos Personales </a>
+  
+  <p class="textoFooter">©Abyss</p>
+  
+  </footer>
+  
+</body>
+</html>

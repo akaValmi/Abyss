@@ -1,0 +1,39 @@
+#formInicio{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+
+.imagenLogo{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+
+body{
+    background-color: #6D53A6;
+}
+
+.texto{
+    color: white;
+    font-size: 12px;
+}
+
+.btn{
+    background-color: #3298A6;
+}
+
+#textoRegistro{
+    color: white;
+    font-size: 12px;
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    text-align: center;
+}
+
